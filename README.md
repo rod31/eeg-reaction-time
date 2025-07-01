@@ -28,5 +28,5 @@ Developed as part of undergraduate research at the Cognitive Neuroengineering an
 
 ## 📫 Contact
 For more information or collaboration:
-📧 Rodrigo01.aragao@gmail.com  
+📧 rodrigo01.aragao@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rb-aragao)
